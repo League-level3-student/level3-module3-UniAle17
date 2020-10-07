@@ -28,12 +28,8 @@ public class Farm {
 		for (int i = 0; i < args.length; i++) {
 			
 			
-			moo.makeNoise();
-			movie.makeNoise();
-			ruffles.makeNoise();
-			Alexander.makeNoise();
-			herbert.makeNoise();
-			fluff.makeNoise();
+			farm.get(i).makeNoise();
+			farm.get(i).eat();
 			
 			
 		}
