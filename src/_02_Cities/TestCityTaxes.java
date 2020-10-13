@@ -29,11 +29,5 @@ public class TestCityTaxes {
 	}
 	
 	
-	public void getAnnualTaxes() {	
-
-		
-		if()
-		
-		
-	}
+	
 }
